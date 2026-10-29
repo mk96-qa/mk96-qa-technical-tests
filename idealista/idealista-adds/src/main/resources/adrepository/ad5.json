@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "typology": "FLAT",
+  "pictures": [
+    {
+      "id": 3,
+      "url": "http://www.idealista.com/pictures/3",
+      "quality": "SD"
+    },
+    {
+      "id": 8,
+      "url": "http://www.idealista.com/pictures/8",
+      "quality": "HD"
+    }
+  ],
+  "description": "Pisazo,",
+  "houseSize": 300
+}

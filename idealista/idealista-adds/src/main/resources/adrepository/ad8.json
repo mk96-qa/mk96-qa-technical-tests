@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "typology": "CHALET",
+  "pictures": [
+    {
+      "id": 1,
+      "url": "http://www.idealista.com/pictures/1",
+      "quality": "SD"
+    },
+    {
+      "id": 7,
+      "url": "http://www.idealista.com/pictures/7",
+      "quality": "SD"
+    }
+  ],
+  "description": "Maravilloso chalet situado en lAs afueras de un pequeño pueblo rural. El entorno es espectacular, las vistas magníficas. ¡Cómprelo ahora!",
+  "houseSize": 300
+}

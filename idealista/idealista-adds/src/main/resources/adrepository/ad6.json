@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "typology": "GARAGE",
+  "pictures": [
+    {
+      "id": 6,
+      "url": "http://www.idealista.com/pictures/6",
+      "quality": "SD"
+    }
+  ],
+  "description": "",
+  "garageSize": 300
+}
